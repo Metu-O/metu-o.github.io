@@ -1,8 +1,8 @@
 ## Header
 
-![Profile Image](add-your-image-url-here)
+![Profile Image](images/headshot.jpeg)
 
-[GitHub](add-link-here) • [GitLab](add-link-here) • [LinkedIn](add-link-here) • [Projects](add-link-here)
+[Projects](https://github.com/Metu-O) • [GitLab](https://gitlab.com/Metu-O) • [LinkedIn](https://www.linkedin.com/in/metuo/) 
 
 ---
 
