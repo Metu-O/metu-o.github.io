@@ -1,8 +1,12 @@
-## Header
+<p align="center">
+  <img src="images/headshot.jpeg" width="250">
+</p>
 
-![Profile Image](images/headshot.jpeg)
-
-[Projects](https://github.com/Metu-O) • [GitLab](https://gitlab.com/Metu-O) • [LinkedIn](https://www.linkedin.com/in/metuo/) 
+<p align="center">
+  <a href="https://github.com/Metu-O">Projects</a> •
+  <a href="https://gitlab.com/Metu-O">GitLab</a> •
+  <a href="https://www.linkedin.com/in/metuo/">LinkedIn</a>
+</p>
 
 ---
 
